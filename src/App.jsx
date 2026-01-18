@@ -1611,7 +1611,7 @@ Be specific and reference actual experience. If it's not a good fit, say so clea
                           style={{ 
                             '--hover-color': color,
                             '--hover-bg': `${color}15`
-                          } as React.CSSProperties}
+                          }}
                           onMouseEnter={(e) => {
                             e.currentTarget.style.background = `${color}12`;
                             e.currentTarget.style.color = color;
