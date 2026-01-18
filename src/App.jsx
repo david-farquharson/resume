@@ -1384,7 +1384,7 @@ Be specific and reference actual experience. If it's not a good fit, say so clea
             <div 
               key={i} 
               className="trait-card"
-              style={{ '--trait-color': trait.color } as React.CSSProperties}
+              style={{ '--trait-color': trait.color }}
             >
               <div 
                 className="trait-title" 
