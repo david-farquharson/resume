@@ -14,7 +14,7 @@ const resumeData = {
   summary: `A rare blend of strategic defense leadership and hands-on technical mastery. From architecting the White House website to managing multi-million dollar Army programs at the Pentagon, I bring an engineer's precision to complex government challenges. My career spans HQDA G-3/5/7, USAREUR-AF, and the Executive Office of the President—always diving deep into the unfamiliar, mastering it, and delivering results that matter.`,
 
   keyTraits: [
-    { trait: "Tenacious Learner", desc: "I don't just learn—I master. From blockchain to budget analysis, I dive deep until I own it.", color: "#0891b2" },
+    { trait: "Tenacious Learner", desc: "I don't just learn, I master. From blockchain to budget analysis, I dive deep until I own it.", color: "#0891b2" },
     { trait: "Engineering Mind", desc: "Whether it's code architecture or program strategy, I build systems that scale.", color: "#7c3aed" },
     { trait: "Strategic Clarity", desc: "I translate Pentagon complexity into actionable plans and measurable outcomes.", color: "#059669" },
     { trait: "Cross-Functional Leader", desc: "Led teams across DoD, Army, EUCOM, and civilian contractors to unified success.", color: "#dc2626" }
